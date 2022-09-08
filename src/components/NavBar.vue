@@ -38,6 +38,7 @@
 </template>
 
 <script>
+import("../../public/css/fontawesome.css")
 export default {
 
 }

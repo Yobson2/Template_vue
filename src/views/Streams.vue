@@ -4,13 +4,14 @@
     <div class="row">
       <div class="col-lg-12">
         <div class="page-content">
-         <div class="row">
-          <div class="col-lg-8">
-             <Streams1 />
-             <Streams2 />
 
-           </div>
-          </div>
+          <!-- ***** Featured Games Start ***** -->
+          <div class="row">
+              <streams1 />
+              <streams2 />
+        </div>
+          <!-- ***** Live Stream End ***** -->
+
         </div>
       </div>
     </div>

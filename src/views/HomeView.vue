@@ -13,7 +13,6 @@ import NavBar from '../components/NavBar.vue'
 import Footer from '../components/Footer.vue'
 import Home_body from '../components/Home_body.vue'
 
-     // le css
 
 
 
